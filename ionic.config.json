@@ -1,0 +1,7 @@
+{
+  "name": "breaking-bad",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
